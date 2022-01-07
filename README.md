@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RUKUNDO Janvier
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Reactjs
-- 📫 How to reach me  via my email Rukundojanvier250@gmail.com
+- 📫 you can reach me  via my email Rukundojanvier250@gmail.com
 
 <!---
 rukundorkay/rukundorkay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
