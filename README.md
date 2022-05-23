@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RUKUNDO Janvier
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning ReactNativw
+- 🌱 I’m currently learning ReactNative
 - 📫 you can reach me  via my email Rukundojanvier250@gmail.com
 
 <!---
